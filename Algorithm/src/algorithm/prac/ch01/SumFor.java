@@ -19,7 +19,7 @@ public class SumFor {
 		
 		System.out.println("1부터 " + n + " 까지의 합은 " + sum + " 입니다.");
 		
-		System.out.println(sumof(3, 3));
+		System.out.println(sumof(4, 5));
 	}
 	
 	public static int sumof(int a, int b) {
