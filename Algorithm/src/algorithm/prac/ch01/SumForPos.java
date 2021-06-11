@@ -32,6 +32,7 @@ public class SumForPos {
 //		
 //		System.out.println(n2 - n1);
 		
+		//연습 문제 Q11
 		System.out.println(getNumLength(135123));
 		
 	}
